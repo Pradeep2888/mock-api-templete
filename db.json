@@ -11,5 +11,15 @@
             "cost": 1299,
             "borrowed": false
     }
+    ],
+    "user":[
+        {
+            "id":1,
+            "full_name":"Pradeep Tiwari",
+            "email":"pradeep2888@gmail.com",
+            "password":"pradeep",
+            "image_url":"https://i.pravatar.cc/100"
+        }
     ]
+    
 }
